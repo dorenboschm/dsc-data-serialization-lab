@@ -1,3 +1,4 @@
+
 # Data Serialization Formats - Cumulative Lab
 
 ## Introduction
